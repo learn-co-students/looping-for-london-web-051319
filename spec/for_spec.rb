@@ -1,4 +1,4 @@
-require_relative "spec_helper"
+require_relative "spec_helper.rb"
 require_relative "../for.rb"
 
 describe "#using_for" do 
